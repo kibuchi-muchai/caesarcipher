@@ -19,8 +19,5 @@ So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC".
 
 - Execute the project through gradle run or /gradlew run
 
-# Copyright and License Information
-
-
 
 
