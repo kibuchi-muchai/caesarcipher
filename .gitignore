@@ -1,3 +1,17 @@
 /build
 .idea
 .gradle
+.idea/
+/.idea
+/.gradle
+
+# Java and Gradle #
+############
+build/
+.gradle/
+out/
+out
+gradle
+gradlew.bat
+gradlew
+settings.gradle
