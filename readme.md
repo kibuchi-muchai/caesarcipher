@@ -3,6 +3,7 @@
 # Author
 
 Kibuchi Muchai
+
 ## Project Description
 
 Implement a Caesar cipher, both encoding, and decoding.
@@ -12,6 +13,14 @@ So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC".
 
 # Project SetUp
 
-To run the program, it is important to check if a Java sdk is installed
-I used intelliJ to run the program
+- To run the program, it is important to check if a Java sdk is installed
+
+- Update gradle dependencies
+
+- Execute the project through gradle run or /gradlew run
+
+# Copyright and License Information
+
+
+
 
